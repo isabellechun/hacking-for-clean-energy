@@ -1,505 +1,3201 @@
 [
     {
-        "Tanisha Guzman": [
-            "energy_efficiency_improvements",
-            "energy_efficiency_improvements",
+        "firstName": "Tanisha",
+        "lastName": "Guzman",
+        "income": "9916521",
+        "homeValue": "749197",
+        "homeAge": "1945",
+        "propertyType": "single_family",
+        "addressZipcode": "23005",
+        "incentives": [
+            "solar_panels",
             "weatherization",
-            "solar_panels"
-        ]
-    },
-    {
-        "Tamara Sears": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Caiden Rosales": [
+        "firstName": "Tamara",
+        "lastName": "Sears",
+        "income": "14664442",
+        "homeValue": "601812",
+        "homeAge": "1939",
+        "propertyType": "single_family",
+        "addressZipcode": "40115",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Malaika Hogan": [
-            "solar_panels"
-        ]
+        "firstName": "Hafsah",
+        "lastName": "Chandler",
+        "income": "11495810",
+        "homeValue": "631966",
+        "homeAge": "1946",
+        "propertyType": "multifamily",
+        "addressZipcode": "55043",
+        "incentives": []
     },
     {
-        "Leon Trujillo": [
+        "firstName": "Cindy",
+        "lastName": "Yates",
+        "income": "6215418",
+        "homeValue": "348598",
+        "homeAge": "1974",
+        "propertyType": "multifamily",
+        "addressZipcode": "27053",
+        "incentives": []
+    },
+    {
+        "firstName": "Jaden",
+        "lastName": "Conner",
+        "income": "7638825",
+        "homeValue": "332876",
+        "homeAge": "1995",
+        "propertyType": "multifamily",
+        "addressZipcode": "18087",
+        "incentives": []
+    },
+    {
+        "firstName": "Chaya",
+        "lastName": "Frederick",
+        "income": "12819040",
+        "homeValue": "525240",
+        "homeAge": "1997",
+        "propertyType": "multifamily",
+        "addressZipcode": "17081",
+        "incentives": []
+    },
+    {
+        "firstName": "Blanche",
+        "lastName": "Wang",
+        "income": "14334939",
+        "homeValue": "471902",
+        "homeAge": "1991",
+        "propertyType": "multifamily",
+        "addressZipcode": "39153",
+        "incentives": []
+    },
+    {
+        "firstName": "Owais",
+        "lastName": "George",
+        "income": "7281511",
+        "homeValue": "261543",
+        "homeAge": "1970",
+        "propertyType": "single_family",
+        "addressZipcode": "17067",
+        "incentives": []
+    },
+    {
+        "firstName": "Chanelle",
+        "lastName": "Escobar",
+        "income": "9720640",
+        "homeValue": "533427",
+        "homeAge": "1958",
+        "propertyType": "single_family",
+        "addressZipcode": "54025",
+        "incentives": []
+    },
+    {
+        "firstName": "Safia",
+        "lastName": "Cooke",
+        "income": "10416350",
+        "homeValue": "245623",
+        "homeAge": "1932",
+        "propertyType": "multifamily",
+        "addressZipcode": "55043",
+        "incentives": []
+    },
+    {
+        "firstName": "Caiden",
+        "lastName": "Rosales",
+        "income": "10042998",
+        "homeValue": "412265",
+        "homeAge": "1957",
+        "propertyType": "single_family",
+        "addressZipcode": "35031",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Luisa Hunt": [
+        "firstName": "Malaika",
+        "lastName": "Hogan",
+        "income": "12307371",
+        "homeValue": "680659",
+        "homeAge": "1965",
+        "propertyType": "multifamily",
+        "addressZipcode": "24045",
+        "incentives": [
             "solar_panels"
         ]
     },
     {
-        "Maliha Murphy": [
+        "firstName": "Zac",
+        "lastName": "Warren",
+        "income": "4207442",
+        "homeValue": "739420",
+        "homeAge": "1999",
+        "propertyType": "multifamily",
+        "addressZipcode": "42129",
+        "incentives": []
+    },
+    {
+        "firstName": "Leon",
+        "lastName": "Trujillo",
+        "income": "6517081",
+        "homeValue": "655292",
+        "homeAge": "2002",
+        "propertyType": "single_family",
+        "addressZipcode": "42127",
+        "incentives": [
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Kristen",
+        "lastName": "Vega",
+        "income": "6781742",
+        "homeValue": "586752",
+        "homeAge": "1955",
+        "propertyType": "single_family",
+        "addressZipcode": "17055",
+        "incentives": []
+    },
+    {
+        "firstName": "Maria",
+        "lastName": "Pope",
+        "income": "3323782",
+        "homeValue": "259387",
+        "homeAge": "1932",
+        "propertyType": "multifamily",
+        "addressZipcode": "36065",
+        "incentives": []
+    },
+    {
+        "firstName": "Luisa",
+        "lastName": "Hunt",
+        "income": "8138481",
+        "homeValue": "265583",
+        "homeAge": "1995",
+        "propertyType": "multifamily",
+        "addressZipcode": "22101",
+        "incentives": [
             "solar_panels"
         ]
     },
     {
-        "Anthony Buck": [
+        "firstName": "Eloise",
+        "lastName": "Hayes",
+        "income": "7856653",
+        "homeValue": "769383",
+        "homeAge": "1980",
+        "propertyType": "multifamily",
+        "addressZipcode": "36103",
+        "incentives": []
+    },
+    {
+        "firstName": "Rhodri",
+        "lastName": "O'Moore",
+        "income": "11096444",
+        "homeValue": "325328",
+        "homeAge": "1939",
+        "propertyType": "single_family",
+        "addressZipcode": "53001",
+        "incentives": []
+    },
+    {
+        "firstName": "Maliha",
+        "lastName": "Murphy",
+        "income": "3114558",
+        "homeValue": "404248",
+        "homeAge": "1935",
+        "propertyType": "multifamily",
+        "addressZipcode": "24033",
+        "incentives": [
+            "solar_panels"
+        ]
+    },
+    {
+        "firstName": "Ismael",
+        "lastName": "Wood",
+        "income": "9244012",
+        "homeValue": "519166",
+        "homeAge": "1947",
+        "propertyType": "multifamily",
+        "addressZipcode": "53057",
+        "incentives": []
+    },
+    {
+        "firstName": "Alanna",
+        "lastName": "Hart",
+        "income": "8587215",
+        "homeValue": "314005",
+        "homeAge": "1990",
+        "propertyType": "single_family",
+        "addressZipcode": "53061",
+        "incentives": []
+    },
+    {
+        "firstName": "Shanice",
+        "lastName": "Mckay",
+        "income": "14156144",
+        "homeValue": "262907",
+        "homeAge": "1999",
+        "propertyType": "multifamily",
+        "addressZipcode": "29115",
+        "incentives": []
+    },
+    {
+        "firstName": "Anthony",
+        "lastName": "Buck",
+        "income": "9074760",
+        "homeValue": "216383",
+        "homeAge": "2008",
+        "propertyType": "multifamily",
+        "addressZipcode": "20051",
+        "incentives": [
             "solar_panels",
             "solar_subscription"
         ]
     },
     {
-        "Gracie Tate": [
-            "attic_insulation",
-            "floor_insulation",
+        "firstName": "Oliwier",
+        "lastName": "Nicholson",
+        "income": "4898600",
+        "homeValue": "223254",
+        "homeAge": "1983",
+        "propertyType": "multifamily",
+        "addressZipcode": "50027",
+        "incentives": []
+    },
+    {
+        "firstName": "Calvin",
+        "lastName": "Mccall",
+        "income": "8825795",
+        "homeValue": "431230",
+        "homeAge": "1959",
+        "propertyType": "multifamily",
+        "addressZipcode": "48223",
+        "incentives": []
+    },
+    {
+        "firstName": "Annalise",
+        "lastName": "Vazquez",
+        "income": "5062591",
+        "homeValue": "307141",
+        "homeAge": "1993",
+        "propertyType": "multifamily",
+        "addressZipcode": "18025",
+        "incentives": []
+    },
+    {
+        "firstName": "Wojciech",
+        "lastName": "Mcknight",
+        "income": "6326822",
+        "homeValue": "384699",
+        "homeAge": "1981",
+        "propertyType": "single_family",
+        "addressZipcode": "48391",
+        "incentives": []
+    },
+    {
+        "firstName": "Lily-Mae",
+        "lastName": "Soto",
+        "income": "14792747",
+        "homeValue": "593082",
+        "homeAge": "1969",
+        "propertyType": "single_family",
+        "addressZipcode": "18065",
+        "incentives": []
+    },
+    {
+        "firstName": "Gracie",
+        "lastName": "Tate",
+        "income": "3944993",
+        "homeValue": "437661",
+        "homeAge": "1976",
+        "propertyType": "multifamily",
+        "addressZipcode": "21015",
+        "incentives": [
+            "wall_insulation",
             "hydronic_ashp",
-            "wall_insulation"
+            "attic_insulation",
+            "floor_insulation"
         ]
     },
     {
-        "Sam Barry": [
+        "firstName": "Sam",
+        "lastName": "Barry",
+        "income": "11311051",
+        "homeValue": "275977",
+        "homeAge": "1932",
+        "propertyType": "single_family",
+        "addressZipcode": "36039",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Shelby Bartlett": [
+        "firstName": "Shelby",
+        "lastName": "Bartlett",
+        "income": "6676727",
+        "homeValue": "511757",
+        "homeAge": "1987",
+        "propertyType": "single_family",
+        "addressZipcode": "20045",
+        "incentives": [
             "solar_panels",
             "solar_subscription"
         ]
     },
     {
-        "Laila Schneider": [
+        "firstName": "Laila",
+        "lastName": "Schneider",
+        "income": "11325903",
+        "homeValue": "446057",
+        "homeAge": "1935",
+        "propertyType": "single_family",
+        "addressZipcode": "42003",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Faye Weaver": [
+        "firstName": "Faye",
+        "lastName": "Weaver",
+        "income": "6625737",
+        "homeValue": "284480",
+        "homeAge": "1931",
+        "propertyType": "single_family",
+        "addressZipcode": "30087",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Kade Donovan": [
+        "firstName": "Kade",
+        "lastName": "Donovan",
+        "income": "13789663",
+        "homeValue": "783158",
+        "homeAge": "1958",
+        "propertyType": "single_family",
+        "addressZipcode": "35013",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Vinnie Patterson": [
+        "firstName": "Alivia",
+        "lastName": "Vang",
+        "income": "13221948",
+        "homeValue": "475950",
+        "homeAge": "1949",
+        "propertyType": "multifamily",
+        "addressZipcode": "55025",
+        "incentives": []
+    },
+    {
+        "firstName": "Vinnie",
+        "lastName": "Patterson",
+        "income": "12705617",
+        "homeValue": "631454",
+        "homeAge": "1993",
+        "propertyType": "single_family",
+        "addressZipcode": "35031",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Tomos Green": [
+        "firstName": "Lennon",
+        "lastName": "Carrillo",
+        "income": "9645004",
+        "homeValue": "649922",
+        "homeAge": "1949",
+        "propertyType": "multifamily",
+        "addressZipcode": "36071",
+        "incentives": []
+    },
+    {
+        "firstName": "Catrin",
+        "lastName": "Pacheco",
+        "income": "7243380",
+        "homeValue": "278924",
+        "homeAge": "1954",
+        "propertyType": "multifamily",
+        "addressZipcode": "42061",
+        "incentives": []
+    },
+    {
+        "firstName": "Tomos",
+        "lastName": "Green",
+        "income": "10159934",
+        "homeValue": "288184",
+        "homeAge": "1959",
+        "propertyType": "single_family",
+        "addressZipcode": "41051",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Cynthia Daniels": [
+        "firstName": "Aurora",
+        "lastName": "Whitaker",
+        "income": "13339056",
+        "homeValue": "347522",
+        "homeAge": "1999",
+        "propertyType": "multifamily",
+        "addressZipcode": "36103",
+        "incentives": []
+    },
+    {
+        "firstName": "Loui",
+        "lastName": "Hill",
+        "income": "11064622",
+        "homeValue": "454251",
+        "homeAge": "1985",
+        "propertyType": "multifamily",
+        "addressZipcode": "29069",
+        "incentives": []
+    },
+    {
+        "firstName": "Cynthia",
+        "lastName": "Daniels",
+        "income": "14539684",
+        "homeValue": "763279",
+        "homeAge": "2002",
+        "propertyType": "single_family",
+        "addressZipcode": "36065",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Maja Day": [
+        "firstName": "Raheem",
+        "lastName": "Mcpherson",
+        "income": "10367522",
+        "homeValue": "329832",
+        "homeAge": "2006",
+        "propertyType": "single_family",
+        "addressZipcode": "19079",
+        "incentives": []
+    },
+    {
+        "firstName": "Sion",
+        "lastName": "May",
+        "income": "5995770",
+        "homeValue": "560698",
+        "homeAge": "1994",
+        "propertyType": "multifamily",
+        "addressZipcode": "19063",
+        "incentives": []
+    },
+    {
+        "firstName": "Maja",
+        "lastName": "Day",
+        "income": "5815171",
+        "homeValue": "644948",
+        "homeAge": "1992",
+        "propertyType": "single_family",
+        "addressZipcode": "35053",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Homer Snow": [
+        "firstName": "Juliette",
+        "lastName": "Sampson",
+        "income": "11612579",
+        "homeValue": "508770",
+        "homeAge": "1949",
+        "propertyType": "single_family",
+        "addressZipcode": "25025",
+        "incentives": []
+    },
+    {
+        "firstName": "Homer",
+        "lastName": "Snow",
+        "income": "13042638",
+        "homeValue": "254328",
+        "homeAge": "1989",
+        "propertyType": "single_family",
+        "addressZipcode": "55043",
+        "incentives": [
             "weatherization"
         ]
     },
     {
-        "Tegan Hubbard": [
-            "energy_efficiency_improvements",
-            "energy_efficiency_improvements",
+        "firstName": "Maisey",
+        "lastName": "Pham",
+        "income": "6379582",
+        "homeValue": "381346",
+        "homeAge": "1998",
+        "propertyType": "single_family",
+        "addressZipcode": "26075",
+        "incentives": []
+    },
+    {
+        "firstName": "Phyllis",
+        "lastName": "Donnelly",
+        "income": "9609121",
+        "homeValue": "737081",
+        "homeAge": "1982",
+        "propertyType": "multifamily",
+        "addressZipcode": "32013",
+        "incentives": []
+    },
+    {
+        "firstName": "Siena",
+        "lastName": "Cochran",
+        "income": "3967125",
+        "homeValue": "394592",
+        "homeAge": "1936",
+        "propertyType": "multifamily",
+        "addressZipcode": "39107",
+        "incentives": []
+    },
+    {
+        "firstName": "Tegan",
+        "lastName": "Hubbard",
+        "income": "7825818",
+        "homeValue": "560267",
+        "homeAge": "1978",
+        "propertyType": "single_family",
+        "addressZipcode": "23005",
+        "incentives": [
+            "solar_panels",
             "weatherization",
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Silas",
+        "lastName": "Herrera",
+        "income": "11631862",
+        "homeValue": "517664",
+        "homeAge": "1975",
+        "propertyType": "multifamily",
+        "addressZipcode": "20177",
+        "incentives": [
             "solar_panels"
         ]
     },
     {
-        "Silas Herrera": [
-            "solar_panels"
-        ]
-    },
-    {
-        "Caitlyn Lowery": [
+        "firstName": "Caitlyn",
+        "lastName": "Lowery",
+        "income": "3782366",
+        "homeValue": "407214",
+        "homeAge": "1936",
+        "propertyType": "single_family",
+        "addressZipcode": "39097",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Meghan Christian": [
+        "firstName": "Umar",
+        "lastName": "Mitchell",
+        "income": "7523020",
+        "homeValue": "323929",
+        "homeAge": "1940",
+        "propertyType": "multifamily",
+        "addressZipcode": "16051",
+        "incentives": []
+    },
+    {
+        "firstName": "Meghan",
+        "lastName": "Christian",
+        "income": "14068978",
+        "homeValue": "331467",
+        "homeAge": "1945",
+        "propertyType": "single_family",
+        "addressZipcode": "36115",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Haroon Sutherland": [
+        "firstName": "Layton",
+        "lastName": "Adams",
+        "income": "14603833",
+        "homeValue": "391425",
+        "homeAge": "1986",
+        "propertyType": "single_family",
+        "addressZipcode": "53035",
+        "incentives": []
+    },
+    {
+        "firstName": "Elmer",
+        "lastName": "Mata",
+        "income": "12730536",
+        "homeValue": "205740",
+        "homeAge": "1971",
+        "propertyType": "multifamily",
+        "addressZipcode": "31057",
+        "incentives": []
+    },
+    {
+        "firstName": "Haroon",
+        "lastName": "Sutherland",
+        "income": "7170251",
+        "homeValue": "573802",
+        "homeAge": "1939",
+        "propertyType": "single_family",
+        "addressZipcode": "36061",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Carys Irwin": [
+        "firstName": "Michael",
+        "lastName": "Lamb",
+        "income": "6532153",
+        "homeValue": "769813",
+        "homeAge": "2000",
+        "propertyType": "multifamily",
+        "addressZipcode": "46103",
+        "incentives": []
+    },
+    {
+        "firstName": "Fahad",
+        "lastName": "Small",
+        "income": "8910749",
+        "homeValue": "465132",
+        "homeAge": "1935",
+        "propertyType": "multifamily",
+        "addressZipcode": "18035",
+        "incentives": []
+    },
+    {
+        "firstName": "Lydia",
+        "lastName": "Sampson",
+        "income": "9395294",
+        "homeValue": "713875",
+        "homeAge": "2002",
+        "propertyType": "single_family",
+        "addressZipcode": "29137",
+        "incentives": []
+    },
+    {
+        "firstName": "Carys",
+        "lastName": "Irwin",
+        "income": "9194989",
+        "homeValue": "603004",
+        "homeAge": "1946",
+        "propertyType": "single_family",
+        "addressZipcode": "39171",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Clark Frye": [
+        "firstName": "Jorge",
+        "lastName": "Prince",
+        "income": "11875598",
+        "homeValue": "542914",
+        "homeAge": "1988",
+        "propertyType": "multifamily",
+        "addressZipcode": "29229",
+        "incentives": []
+    },
+    {
+        "firstName": "Owais",
+        "lastName": "Daniels",
+        "income": "11137882",
+        "homeValue": "298164",
+        "homeAge": "2010",
+        "propertyType": "multifamily",
+        "addressZipcode": "48133",
+        "incentives": []
+    },
+    {
+        "firstName": "Clark",
+        "lastName": "Frye",
+        "income": "14145531",
+        "homeValue": "333913",
+        "homeAge": "1977",
+        "propertyType": "single_family",
+        "addressZipcode": "40143",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Caitlyn Conley": [
+        "firstName": "Rosanna",
+        "lastName": "Pearce",
+        "income": "7300416",
+        "homeValue": "686582",
+        "homeAge": "1977",
+        "propertyType": "multifamily",
+        "addressZipcode": "33011",
+        "incentives": []
+    },
+    {
+        "firstName": "Leland",
+        "lastName": "Yang",
+        "income": "7398458",
+        "homeValue": "674857",
+        "homeAge": "1991",
+        "propertyType": "single_family",
+        "addressZipcode": "17061",
+        "incentives": []
+    },
+    {
+        "firstName": "Kirsty",
+        "lastName": "Mayo",
+        "income": "12784520",
+        "homeValue": "344970",
+        "homeAge": "1947",
+        "propertyType": "multifamily",
+        "addressZipcode": "53049",
+        "incentives": []
+    },
+    {
+        "firstName": "Martin",
+        "lastName": "Dunn",
+        "income": "12783159",
+        "homeValue": "208125",
+        "homeAge": "1983",
+        "propertyType": "multifamily",
+        "addressZipcode": "48331",
+        "incentives": []
+    },
+    {
+        "firstName": "Hugh",
+        "lastName": "Day",
+        "income": "5283830",
+        "homeValue": "380108",
+        "homeAge": "1958",
+        "propertyType": "single_family",
+        "addressZipcode": "19009",
+        "incentives": []
+    },
+    {
+        "firstName": "Caitlyn",
+        "lastName": "Conley",
+        "income": "14702228",
+        "homeValue": "642274",
+        "homeAge": "1969",
+        "propertyType": "single_family",
+        "addressZipcode": "42053",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Nikhil Levy": [
-            "attic_insulation",
-            "floor_insulation",
+        "firstName": "Lachlan",
+        "lastName": "Jensen",
+        "income": "13446253",
+        "homeValue": "496558",
+        "homeAge": "1983",
+        "propertyType": "single_family",
+        "addressZipcode": "50007",
+        "incentives": []
+    },
+    {
+        "firstName": "Charlotte",
+        "lastName": "Coleman",
+        "income": "11859698",
+        "homeValue": "643297",
+        "homeAge": "1979",
+        "propertyType": "multifamily",
+        "addressZipcode": "37119",
+        "incentives": []
+    },
+    {
+        "firstName": "Elisabeth",
+        "lastName": "Finley",
+        "income": "3168501",
+        "homeValue": "443105",
+        "homeAge": "1941",
+        "propertyType": "multifamily",
+        "addressZipcode": "19153",
+        "incentives": []
+    },
+    {
+        "firstName": "Jazmin",
+        "lastName": "Sanchez",
+        "income": "14671913",
+        "homeValue": "296955",
+        "homeAge": "1968",
+        "propertyType": "multifamily",
+        "addressZipcode": "46125",
+        "incentives": []
+    },
+    {
+        "firstName": "Nikhil",
+        "lastName": "Levy",
+        "income": "10672537",
+        "homeValue": "608793",
+        "homeAge": "2005",
+        "propertyType": "single_family",
+        "addressZipcode": "21131",
+        "incentives": [
+            "wall_insulation",
             "hydronic_ashp",
-            "wall_insulation"
+            "attic_insulation",
+            "floor_insulation"
         ]
     },
     {
-        "Deacon Greene": [
+        "firstName": "Deacon",
+        "lastName": "Greene",
+        "income": "5985099",
+        "homeValue": "733203",
+        "homeAge": "1957",
+        "propertyType": "single_family",
+        "addressZipcode": "36065",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Mariya Clark": [
+        "firstName": "Issac",
+        "lastName": "Gonzales",
+        "income": "13810113",
+        "homeValue": "227556",
+        "homeAge": "1947",
+        "propertyType": "single_family",
+        "addressZipcode": "26141",
+        "incentives": []
+    },
+    {
+        "firstName": "Guy",
+        "lastName": "Horn",
+        "income": "14621044",
+        "homeValue": "658174",
+        "homeAge": "2006",
+        "propertyType": "multifamily",
+        "addressZipcode": "48221",
+        "incentives": []
+    },
+    {
+        "firstName": "Heather",
+        "lastName": "Cain",
+        "income": "13422359",
+        "homeValue": "748399",
+        "homeAge": "1974",
+        "propertyType": "multifamily",
+        "addressZipcode": "17027",
+        "incentives": []
+    },
+    {
+        "firstName": "Philippa",
+        "lastName": "Cohen",
+        "income": "14432716",
+        "homeValue": "651861",
+        "homeAge": "2001",
+        "propertyType": "multifamily",
+        "addressZipcode": "37141",
+        "incentives": []
+    },
+    {
+        "firstName": "Karol",
+        "lastName": "Graham",
+        "income": "4807661",
+        "homeValue": "742695",
+        "homeAge": "1998",
+        "propertyType": "multifamily",
+        "addressZipcode": "48451",
+        "incentives": []
+    },
+    {
+        "firstName": "Aamina",
+        "lastName": "Gould",
+        "income": "13356118",
+        "homeValue": "502602",
+        "homeAge": "1982",
+        "propertyType": "multifamily",
+        "addressZipcode": "46127",
+        "incentives": []
+    },
+    {
+        "firstName": "Timothy",
+        "lastName": "Morris",
+        "income": "8209328",
+        "homeValue": "313881",
+        "homeAge": "2009",
+        "propertyType": "multifamily",
+        "addressZipcode": "36033",
+        "incentives": []
+    },
+    {
+        "firstName": "Mariya",
+        "lastName": "Clark",
+        "income": "14228244",
+        "homeValue": "253055",
+        "homeAge": "1967",
+        "propertyType": "single_family",
+        "addressZipcode": "42003",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Shayla Reynolds": [
+        "firstName": "Shayla",
+        "lastName": "Reynolds",
+        "income": "8042568",
+        "homeValue": "284489",
+        "homeAge": "1941",
+        "propertyType": "multifamily",
+        "addressZipcode": "20075",
+        "incentives": [
             "solar_panels",
             "solar_subscription"
         ]
     },
     {
-        "Rico Donovan": [
+        "firstName": "Rico",
+        "lastName": "Donovan",
+        "income": "6016655",
+        "homeValue": "398339",
+        "homeAge": "1984",
+        "propertyType": "single_family",
+        "addressZipcode": "36119",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Alexandria Ortega": [
+        "firstName": "Alexandria",
+        "lastName": "Ortega",
+        "income": "5711996",
+        "homeValue": "267268",
+        "homeAge": "1952",
+        "propertyType": "single_family",
+        "addressZipcode": "38075",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Elliot Pierce": [
+        "firstName": "Lance",
+        "lastName": "Ferguson",
+        "income": "4748953",
+        "homeValue": "234638",
+        "homeAge": "1938",
+        "propertyType": "single_family",
+        "addressZipcode": "48071",
+        "incentives": []
+    },
+    {
+        "firstName": "Adelaide",
+        "lastName": "Reed",
+        "income": "8331033",
+        "homeValue": "501025",
+        "homeAge": "1935",
+        "propertyType": "multifamily",
+        "addressZipcode": "12015",
+        "incentives": []
+    },
+    {
+        "firstName": "Rosalie",
+        "lastName": "Beasley",
+        "income": "7399431",
+        "homeValue": "483915",
+        "homeAge": "1952",
+        "propertyType": "multifamily",
+        "addressZipcode": "38061",
+        "incentives": []
+    },
+    {
+        "firstName": "Aliya",
+        "lastName": "Perry",
+        "income": "10454467",
+        "homeValue": "527557",
+        "homeAge": "1995",
+        "propertyType": "single_family",
+        "addressZipcode": "48201",
+        "incentives": []
+    },
+    {
+        "firstName": "Nadia",
+        "lastName": "Barrera",
+        "income": "12994654",
+        "homeValue": "648649",
+        "homeAge": "1998",
+        "propertyType": "multifamily",
+        "addressZipcode": "51101",
+        "incentives": []
+    },
+    {
+        "firstName": "Mitchell",
+        "lastName": "Wu",
+        "income": "4234466",
+        "homeValue": "690785",
+        "homeAge": "2004",
+        "propertyType": "single_family",
+        "addressZipcode": "45013",
+        "incentives": []
+    },
+    {
+        "firstName": "Rehan",
+        "lastName": "Maddox",
+        "income": "12119707",
+        "homeValue": "624544",
+        "homeAge": "1980",
+        "propertyType": "multifamily",
+        "addressZipcode": "30111",
+        "incentives": []
+    },
+    {
+        "firstName": "Lauren",
+        "lastName": "Kirk",
+        "income": "10410291",
+        "homeValue": "639208",
+        "homeAge": "1967",
+        "propertyType": "multifamily",
+        "addressZipcode": "39061",
+        "incentives": []
+    },
+    {
+        "firstName": "Elliot",
+        "lastName": "Pierce",
+        "income": "7563394",
+        "homeValue": "408150",
+        "homeAge": "1953",
+        "propertyType": "single_family",
+        "addressZipcode": "27047",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Cassie Waller": [
-            "attic_insulation",
-            "floor_insulation",
+        "firstName": "Sufyaan",
+        "lastName": "Conner",
+        "income": "12016274",
+        "homeValue": "543215",
+        "homeAge": "1985",
+        "propertyType": "multifamily",
+        "addressZipcode": "40115",
+        "incentives": []
+    },
+    {
+        "firstName": "Rafe",
+        "lastName": "Daugherty",
+        "income": "14035883",
+        "homeValue": "595718",
+        "homeAge": "1936",
+        "propertyType": "multifamily",
+        "addressZipcode": "39121",
+        "incentives": []
+    },
+    {
+        "firstName": "Ela",
+        "lastName": "Palmer",
+        "income": "7135066",
+        "homeValue": "261470",
+        "homeAge": "1990",
+        "propertyType": "single_family",
+        "addressZipcode": "19017",
+        "incentives": []
+    },
+    {
+        "firstName": "Monty",
+        "lastName": "Cotton",
+        "income": "9479222",
+        "homeValue": "703574",
+        "homeAge": "2005",
+        "propertyType": "multifamily",
+        "addressZipcode": "48151",
+        "incentives": []
+    },
+    {
+        "firstName": "Cassie",
+        "lastName": "Waller",
+        "income": "7054171",
+        "homeValue": "311475",
+        "homeAge": "1962",
+        "propertyType": "multifamily",
+        "addressZipcode": "21235",
+        "incentives": [
+            "wall_insulation",
             "hydronic_ashp",
-            "wall_insulation"
+            "attic_insulation",
+            "floor_insulation"
         ]
     },
     {
-        "Sion Glenn": [
+        "firstName": "Huda",
+        "lastName": "Larsen",
+        "income": "10844572",
+        "homeValue": "787041",
+        "homeAge": "1970",
+        "propertyType": "multifamily",
+        "addressZipcode": "40019",
+        "incentives": []
+    },
+    {
+        "firstName": "Sion",
+        "lastName": "Glenn",
+        "income": "14396962",
+        "homeValue": "388020",
+        "homeAge": "1978",
+        "propertyType": "single_family",
+        "addressZipcode": "36103",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "April Harrison": [
+        "firstName": "April",
+        "lastName": "Harrison",
+        "income": "5602908",
+        "homeValue": "289835",
+        "homeAge": "1932",
+        "propertyType": "single_family",
+        "addressZipcode": "39117",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Hasnain Pruitt": [
+        "firstName": "Jazmine",
+        "lastName": "Noble",
+        "income": "4271192",
+        "homeValue": "747981",
+        "homeAge": "1944",
+        "propertyType": "multifamily",
+        "addressZipcode": "29021",
+        "incentives": []
+    },
+    {
+        "firstName": "Nia",
+        "lastName": "Jones",
+        "income": "14605536",
+        "homeValue": "786986",
+        "homeAge": "1986",
+        "propertyType": "single_family",
+        "addressZipcode": "48167",
+        "incentives": []
+    },
+    {
+        "firstName": "Mildred",
+        "lastName": "Peterson",
+        "income": "4787536",
+        "homeValue": "329921",
+        "homeAge": "1995",
+        "propertyType": "single_family",
+        "addressZipcode": "19113",
+        "incentives": []
+    },
+    {
+        "firstName": "Naomi",
+        "lastName": "Leach",
+        "income": "11534036",
+        "homeValue": "692958",
+        "homeAge": "2008",
+        "propertyType": "single_family",
+        "addressZipcode": "19089",
+        "incentives": []
+    },
+    {
+        "firstName": "Gavin",
+        "lastName": "Hale",
+        "income": "14386722",
+        "homeValue": "454303",
+        "homeAge": "1988",
+        "propertyType": "single_family",
+        "addressZipcode": "48451",
+        "incentives": []
+    },
+    {
+        "firstName": "Zoya",
+        "lastName": "Dale",
+        "income": "11168325",
+        "homeValue": "539575",
+        "homeAge": "1959",
+        "propertyType": "multifamily",
+        "addressZipcode": "19013",
+        "incentives": []
+    },
+    {
+        "firstName": "Alivia",
+        "lastName": "Gibbons",
+        "income": "14820088",
+        "homeValue": "277492",
+        "homeAge": "2005",
+        "propertyType": "multifamily",
+        "addressZipcode": "53015",
+        "incentives": []
+    },
+    {
+        "firstName": "Johnathan",
+        "lastName": "Rowland",
+        "income": "7439000",
+        "homeValue": "525655",
+        "homeAge": "2007",
+        "propertyType": "multifamily",
+        "addressZipcode": "12085",
+        "incentives": []
+    },
+    {
+        "firstName": "Hasnain",
+        "lastName": "Pruitt",
+        "income": "12170329",
+        "homeValue": "205032",
+        "homeAge": "1977",
+        "propertyType": "single_family",
+        "addressZipcode": "55089",
+        "incentives": [
             "weatherization"
         ]
     },
     {
-        "Raja Carroll": [
+        "firstName": "Lori",
+        "lastName": "Anderson",
+        "income": "7374883",
+        "homeValue": "363596",
+        "homeAge": "1934",
+        "propertyType": "multifamily",
+        "addressZipcode": "45051",
+        "incentives": []
+    },
+    {
+        "firstName": "Alys",
+        "lastName": "Franklin",
+        "income": "11160563",
+        "homeValue": "634432",
+        "homeAge": "1944",
+        "propertyType": "single_family",
+        "addressZipcode": "49043",
+        "incentives": []
+    },
+    {
+        "firstName": "Verity",
+        "lastName": "Whitney",
+        "income": "14604059",
+        "homeValue": "436175",
+        "homeAge": "1938",
+        "propertyType": "single_family",
+        "addressZipcode": "54005",
+        "incentives": []
+    },
+    {
+        "firstName": "Effie",
+        "lastName": "Ortiz",
+        "income": "12213006",
+        "homeValue": "572834",
+        "homeAge": "1986",
+        "propertyType": "single_family",
+        "addressZipcode": "19105",
+        "incentives": []
+    },
+    {
+        "firstName": "Dillan",
+        "lastName": "Murphy",
+        "income": "5597299",
+        "homeValue": "426911",
+        "homeAge": "2008",
+        "propertyType": "single_family",
+        "addressZipcode": "51041",
+        "incentives": []
+    },
+    {
+        "firstName": "Alexa",
+        "lastName": "Gross",
+        "income": "3508730",
+        "homeValue": "310787",
+        "homeAge": "1983",
+        "propertyType": "multifamily",
+        "addressZipcode": "39145",
+        "incentives": []
+    },
+    {
+        "firstName": "Richie",
+        "lastName": "Hancock",
+        "income": "13518994",
+        "homeValue": "206842",
+        "homeAge": "2009",
+        "propertyType": "multifamily",
+        "addressZipcode": "27045",
+        "incentives": []
+    },
+    {
+        "firstName": "Keane",
+        "lastName": "Sullivan",
+        "income": "11728082",
+        "homeValue": "252217",
+        "homeAge": "1943",
+        "propertyType": "multifamily",
+        "addressZipcode": "37037",
+        "incentives": []
+    },
+    {
+        "firstName": "James",
+        "lastName": "Gibbs",
+        "income": "7528468",
+        "homeValue": "620334",
+        "homeAge": "1987",
+        "propertyType": "multifamily",
+        "addressZipcode": "13207",
+        "incentives": []
+    },
+    {
+        "firstName": "Raja",
+        "lastName": "Carroll",
+        "income": "10290515",
+        "homeValue": "328445",
+        "homeAge": "1976",
+        "propertyType": "multifamily",
+        "addressZipcode": "22031",
+        "incentives": [
             "solar_panels"
         ]
     },
     {
-        "Lacey Mcclain": [
+        "firstName": "Lacey",
+        "lastName": "Mcclain",
+        "income": "12790314",
+        "homeValue": "772095",
+        "homeAge": "1996",
+        "propertyType": "single_family",
+        "addressZipcode": "37167",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Syeda Peterson": [
-            "attic_insulation",
-            "floor_insulation",
+        "firstName": "Anthony",
+        "lastName": "Curry",
+        "income": "13608739",
+        "homeValue": "289233",
+        "homeAge": "1989",
+        "propertyType": "multifamily",
+        "addressZipcode": "18015",
+        "incentives": []
+    },
+    {
+        "firstName": "Mae",
+        "lastName": "Zamora",
+        "income": "9046408",
+        "homeValue": "547367",
+        "homeAge": "1943",
+        "propertyType": "multifamily",
+        "addressZipcode": "48027",
+        "incentives": []
+    },
+    {
+        "firstName": "Laura",
+        "lastName": "Craig",
+        "income": "6105925",
+        "homeValue": "325238",
+        "homeAge": "1956",
+        "propertyType": "multifamily",
+        "addressZipcode": "48473",
+        "incentives": []
+    },
+    {
+        "firstName": "Shaun",
+        "lastName": "Horn",
+        "income": "13349237",
+        "homeValue": "783060",
+        "homeAge": "1950",
+        "propertyType": "multifamily",
+        "addressZipcode": "36053",
+        "incentives": []
+    },
+    {
+        "firstName": "Zoya",
+        "lastName": "Rich",
+        "income": "3028073",
+        "homeValue": "562910",
+        "homeAge": "1954",
+        "propertyType": "single_family",
+        "addressZipcode": "48121",
+        "incentives": []
+    },
+    {
+        "firstName": "Ayah",
+        "lastName": "Kramer",
+        "income": "5029313",
+        "homeValue": "655570",
+        "homeAge": "1963",
+        "propertyType": "multifamily",
+        "addressZipcode": "48439",
+        "incentives": []
+    },
+    {
+        "firstName": "Lochlan",
+        "lastName": "Ball",
+        "income": "7958701",
+        "homeValue": "216160",
+        "homeAge": "1973",
+        "propertyType": "multifamily",
+        "addressZipcode": "35035",
+        "incentives": []
+    },
+    {
+        "firstName": "Jenny",
+        "lastName": "Sloan",
+        "income": "6071093",
+        "homeValue": "758524",
+        "homeAge": "1957",
+        "propertyType": "multifamily",
+        "addressZipcode": "55021",
+        "incentives": []
+    },
+    {
+        "firstName": "Jessica",
+        "lastName": "Wallace",
+        "income": "6324451",
+        "homeValue": "312930",
+        "homeAge": "1998",
+        "propertyType": "multifamily",
+        "addressZipcode": "39057",
+        "incentives": []
+    },
+    {
+        "firstName": "Syeda",
+        "lastName": "Peterson",
+        "income": "12036880",
+        "homeValue": "753671",
+        "homeAge": "1962",
+        "propertyType": "single_family",
+        "addressZipcode": "21111",
+        "incentives": [
+            "wall_insulation",
             "hydronic_ashp",
-            "wall_insulation"
+            "attic_insulation",
+            "floor_insulation"
         ]
     },
     {
-        "Danielle Boone": [
+        "firstName": "Danielle",
+        "lastName": "Boone",
+        "income": "6129803",
+        "homeValue": "545277",
+        "homeAge": "2006",
+        "propertyType": "multifamily",
+        "addressZipcode": "22047",
+        "incentives": [
             "solar_panels"
         ]
     },
     {
-        "Lucia Potter": [
-            "energy_efficiency_improvements",
-            "solar_panels"
-        ]
+        "firstName": "Carol",
+        "lastName": "Anthony",
+        "income": "8057704",
+        "homeValue": "607017",
+        "homeAge": "2002",
+        "propertyType": "multifamily",
+        "addressZipcode": "30049",
+        "incentives": []
     },
     {
-        "Millie Dunlap": [
+        "firstName": "Rhodri",
+        "lastName": "Mayo",
+        "income": "11925564",
+        "homeValue": "639450",
+        "homeAge": "1962",
+        "propertyType": "multifamily",
+        "addressZipcode": "36117",
+        "incentives": []
+    },
+    {
+        "firstName": "Roseanna",
+        "lastName": "Gentry",
+        "income": "11473621",
+        "homeValue": "363444",
+        "homeAge": "1937",
+        "propertyType": "multifamily",
+        "addressZipcode": "29153",
+        "incentives": []
+    },
+    {
+        "firstName": "Madiha",
+        "lastName": "Ward",
+        "income": "14306361",
+        "homeValue": "667861",
+        "homeAge": "1996",
+        "propertyType": "multifamily",
+        "addressZipcode": "36039",
+        "incentives": []
+    },
+    {
+        "firstName": "Celia",
+        "lastName": "Molina",
+        "income": "4968434",
+        "homeValue": "761270",
+        "homeAge": "1998",
+        "propertyType": "multifamily",
+        "addressZipcode": "41001",
+        "incentives": []
+    },
+    {
+        "firstName": "Lucia",
+        "lastName": "Potter",
+        "income": "9562362",
+        "homeValue": "665331",
+        "homeAge": "1957",
+        "propertyType": "single_family",
+        "addressZipcode": "20135",
+        "incentives": [
+            "solar_panels",
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Milo Vaughan": [
+        "firstName": "Helen",
+        "lastName": "Welch",
+        "income": "12136516",
+        "homeValue": "203514",
+        "homeAge": "1938",
+        "propertyType": "multifamily",
+        "addressZipcode": "48021",
+        "incentives": []
+    },
+    {
+        "firstName": "Millie",
+        "lastName": "Dunlap",
+        "income": "6570454",
+        "homeValue": "342518",
+        "homeAge": "1962",
+        "propertyType": "single_family",
+        "addressZipcode": "37129",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Ronnie Perez": [
-            "energy_efficiency_improvements",
-            "energy_efficiency_improvements",
+        "firstName": "Kallum",
+        "lastName": "Henderson",
+        "income": "12030267",
+        "homeValue": "445533",
+        "homeAge": "1975",
+        "propertyType": "multifamily",
+        "addressZipcode": "36081",
+        "incentives": []
+    },
+    {
+        "firstName": "Milo",
+        "lastName": "Vaughan",
+        "income": "11429811",
+        "homeValue": "502968",
+        "homeAge": "1963",
+        "propertyType": "single_family",
+        "addressZipcode": "42101",
+        "incentives": [
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Kyle",
+        "lastName": "Blake",
+        "income": "8797757",
+        "homeValue": "405050",
+        "homeAge": "1995",
+        "propertyType": "multifamily",
+        "addressZipcode": "56013",
+        "incentives": []
+    },
+    {
+        "firstName": "Joao",
+        "lastName": "Collins",
+        "income": "12013230",
+        "homeValue": "291527",
+        "homeAge": "1941",
+        "propertyType": "multifamily",
+        "addressZipcode": "12027",
+        "incentives": []
+    },
+    {
+        "firstName": "Erin",
+        "lastName": "James",
+        "income": "8594806",
+        "homeValue": "678411",
+        "homeAge": "1986",
+        "propertyType": "multifamily",
+        "addressZipcode": "19013",
+        "incentives": []
+    },
+    {
+        "firstName": "Juliet",
+        "lastName": "Crane",
+        "income": "4159774",
+        "homeValue": "450823",
+        "homeAge": "1940",
+        "propertyType": "multifamily",
+        "addressZipcode": "12031",
+        "incentives": []
+    },
+    {
+        "firstName": "Gloria",
+        "lastName": "Mooney",
+        "income": "8007052",
+        "homeValue": "640192",
+        "homeAge": "1985",
+        "propertyType": "multifamily",
+        "addressZipcode": "19001",
+        "incentives": []
+    },
+    {
+        "firstName": "Ibrahim",
+        "lastName": "Underwood",
+        "income": "3713365",
+        "homeValue": "765124",
+        "homeAge": "1981",
+        "propertyType": "multifamily",
+        "addressZipcode": "37079",
+        "incentives": []
+    },
+    {
+        "firstName": "Kacie",
+        "lastName": "Krueger",
+        "income": "7795570",
+        "homeValue": "444554",
+        "homeAge": "1943",
+        "propertyType": "multifamily",
+        "addressZipcode": "11001",
+        "incentives": []
+    },
+    {
+        "firstName": "Charlie",
+        "lastName": "Snow",
+        "income": "3651115",
+        "homeValue": "232259",
+        "homeAge": "1993",
+        "propertyType": "multifamily",
+        "addressZipcode": "13303",
+        "incentives": []
+    },
+    {
+        "firstName": "Ronnie",
+        "lastName": "Perez",
+        "income": "11834779",
+        "homeValue": "546982",
+        "homeAge": "1975",
+        "propertyType": "single_family",
+        "addressZipcode": "22033",
+        "incentives": [
+            "solar_panels",
             "weatherization",
-            "solar_panels"
-        ]
-    },
-    {
-        "Laurie Brandt": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Ned Buchanan": [
+        "firstName": "Jonathan",
+        "lastName": "Preston",
+        "income": "8800492",
+        "homeValue": "239867",
+        "homeAge": "1931",
+        "propertyType": "multifamily",
+        "addressZipcode": "31107",
+        "incentives": []
+    },
+    {
+        "firstName": "Mya",
+        "lastName": "Patel",
+        "income": "6476122",
+        "homeValue": "359683",
+        "homeAge": "1971",
+        "propertyType": "single_family",
+        "addressZipcode": "13101",
+        "incentives": []
+    },
+    {
+        "firstName": "Heather",
+        "lastName": "Gray",
+        "income": "12362016",
+        "homeValue": "611527",
+        "homeAge": "1933",
+        "propertyType": "multifamily",
+        "addressZipcode": "31021",
+        "incentives": []
+    },
+    {
+        "firstName": "Siobhan",
+        "lastName": "Mclean",
+        "income": "5983823",
+        "homeValue": "489322",
+        "homeAge": "2009",
+        "propertyType": "multifamily",
+        "addressZipcode": "13163",
+        "incentives": []
+    },
+    {
+        "firstName": "Saskia",
+        "lastName": "Kennedy",
+        "income": "14113840",
+        "homeValue": "740906",
+        "homeAge": "1944",
+        "propertyType": "multifamily",
+        "addressZipcode": "32033",
+        "incentives": []
+    },
+    {
+        "firstName": "Laurie",
+        "lastName": "Brandt",
+        "income": "6444380",
+        "homeValue": "606393",
+        "homeAge": "1958",
+        "propertyType": "single_family",
+        "addressZipcode": "37035",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Melissa Vargas": [
+        "firstName": "Paula",
+        "lastName": "Holt",
+        "income": "10100061",
+        "homeValue": "647284",
+        "homeAge": "1977",
+        "propertyType": "multifamily",
+        "addressZipcode": "48205",
+        "incentives": []
+    },
+    {
+        "firstName": "Rayhan",
+        "lastName": "Ortega",
+        "income": "5813504",
+        "homeValue": "768313",
+        "homeAge": "1980",
+        "propertyType": "single_family",
+        "addressZipcode": "19075",
+        "incentives": []
+    },
+    {
+        "firstName": "Macie",
+        "lastName": "Montes",
+        "income": "6257234",
+        "homeValue": "441093",
+        "homeAge": "1994",
+        "propertyType": "multifamily",
+        "addressZipcode": "47041",
+        "incentives": []
+    },
+    {
+        "firstName": "Kendra",
+        "lastName": "Hull",
+        "income": "13854339",
+        "homeValue": "248033",
+        "homeAge": "1962",
+        "propertyType": "multifamily",
+        "addressZipcode": "46013",
+        "incentives": []
+    },
+    {
+        "firstName": "Ned",
+        "lastName": "Buchanan",
+        "income": "11409265",
+        "homeValue": "690112",
+        "homeAge": "1933",
+        "propertyType": "single_family",
+        "addressZipcode": "36111",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Leonard Klein": [
-            "energy_efficiency_improvements",
-            "energy_efficiency_improvements",
+        "firstName": "Travis",
+        "lastName": "Franklin",
+        "income": "6189279",
+        "homeValue": "220934",
+        "homeAge": "2006",
+        "propertyType": "multifamily",
+        "addressZipcode": "10005",
+        "incentives": []
+    },
+    {
+        "firstName": "Melissa",
+        "lastName": "Vargas",
+        "income": "8561424",
+        "homeValue": "217900",
+        "homeAge": "1999",
+        "propertyType": "single_family",
+        "addressZipcode": "36111",
+        "incentives": [
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Jeremiah",
+        "lastName": "Melendez",
+        "income": "11467903",
+        "homeValue": "306881",
+        "homeAge": "1939",
+        "propertyType": "multifamily",
+        "addressZipcode": "19193",
+        "incentives": []
+    },
+    {
+        "firstName": "Leonard",
+        "lastName": "Klein",
+        "income": "12093137",
+        "homeValue": "755758",
+        "homeAge": "1954",
+        "propertyType": "single_family",
+        "addressZipcode": "23003",
+        "incentives": [
+            "solar_panels",
             "weatherization",
-            "solar_panels"
+            "energy_efficiency_improvements"
         ]
     },
     {
-        "Samantha Cantu": [
+        "firstName": "Rabia",
+        "lastName": "Finch",
+        "income": "7972896",
+        "homeValue": "493440",
+        "homeAge": "1933",
+        "propertyType": "single_family",
+        "addressZipcode": "17011",
+        "incentives": []
+    },
+    {
+        "firstName": "Lucille",
+        "lastName": "Dawson",
+        "income": "8126643",
+        "homeValue": "353766",
+        "homeAge": "1930",
+        "propertyType": "single_family",
+        "addressZipcode": "48451",
+        "incentives": []
+    },
+    {
+        "firstName": "Samantha",
+        "lastName": "Cantu",
+        "income": "10403732",
+        "homeValue": "499047",
+        "homeAge": "1971",
+        "propertyType": "single_family",
+        "addressZipcode": "55045",
+        "incentives": [
             "weatherization"
         ]
     },
     {
-        "Nelson Walker": [
-            "attic_insulation",
-            "floor_insulation",
+        "firstName": "Nelson",
+        "lastName": "Walker",
+        "income": "12059975",
+        "homeValue": "315814",
+        "homeAge": "1972",
+        "propertyType": "multifamily",
+        "addressZipcode": "21229",
+        "incentives": [
+            "wall_insulation",
             "hydronic_ashp",
-            "wall_insulation"
-        ]
-    },
-    {
-        "Andre Zamora": [
-            "energy_efficiency_improvements"
-        ]
-    },
-    {
-        "Georgina Henry": [
-            "energy_efficiency_improvements"
-        ]
-    },
-    {
-        "Ali Hebert": [
-            "solar_panels"
-        ]
-    },
-    {
-        "William Macdonald": [
-            "energy_efficiency_improvements"
-        ]
-    },
-    {
-        "Tasnim Cooke": [
-            "energy_efficiency_improvements",
-            "energy_efficiency_improvements",
-            "weatherization",
-            "solar_panels"
-        ]
-    },
-    {
-        "Hasan Jackson": [
-            "energy_efficiency_improvements"
-        ]
-    },
-    {
-        "Zachary Gardner": [
-            "energy_efficiency_improvements"
-        ]
-    },
-    {
-        "Larry Lester": [
-            "solar_panels"
-        ]
-    },
-    {
-        "Tiago Burke": [
-            "energy_efficiency_improvements"
-        ]
-    },
-    {
-        "Stephen Hawkins": [
-            "energy_efficiency_improvements"
-        ]
-    },
-    {
-        "Janet Moran": [
-            "energy_efficiency_improvements"
-        ]
-    },
-    {
-        "Arianna Dunn": [
-            "energy_efficiency_improvements",
-            "energy_efficiency_improvements",
-            "weatherization",
-            "solar_panels"
-        ]
-    },
-    {
-        "Esme Klein": [
             "attic_insulation",
-            "floor_insulation",
-            "hydronic_ashp",
-            "wall_insulation"
+            "floor_insulation"
         ]
     },
     {
-        "Xanthe Finley": [
-            "energy_efficiency_improvements",
-            "energy_efficiency_improvements",
-            "weatherization",
+        "firstName": "Adelaide",
+        "lastName": "Larsen",
+        "income": "12333836",
+        "homeValue": "695075",
+        "homeAge": "1953",
+        "propertyType": "multifamily",
+        "addressZipcode": "19133",
+        "incentives": []
+    },
+    {
+        "firstName": "Seren",
+        "lastName": "Blanchard",
+        "income": "5668883",
+        "homeValue": "695357",
+        "homeAge": "1953",
+        "propertyType": "multifamily",
+        "addressZipcode": "36045",
+        "incentives": []
+    },
+    {
+        "firstName": "Andre",
+        "lastName": "Zamora",
+        "income": "8953197",
+        "homeValue": "466715",
+        "homeAge": "2005",
+        "propertyType": "single_family",
+        "addressZipcode": "35031",
+        "incentives": [
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Szymon",
+        "lastName": "Cervantes",
+        "income": "5331807",
+        "homeValue": "561529",
+        "homeAge": "1979",
+        "propertyType": "multifamily",
+        "addressZipcode": "26161",
+        "incentives": []
+    },
+    {
+        "firstName": "Karina",
+        "lastName": "Newman",
+        "income": "4307332",
+        "homeValue": "308835",
+        "homeAge": "1989",
+        "propertyType": "single_family",
+        "addressZipcode": "12019",
+        "incentives": []
+    },
+    {
+        "firstName": "Zaynab",
+        "lastName": "Rowland",
+        "income": "11668590",
+        "homeValue": "754230",
+        "homeAge": "1986",
+        "propertyType": "multifamily",
+        "addressZipcode": "30017",
+        "incentives": []
+    },
+    {
+        "firstName": "Irene",
+        "lastName": "O'Ryan",
+        "income": "14407157",
+        "homeValue": "349511",
+        "homeAge": "1945",
+        "propertyType": "single_family",
+        "addressZipcode": "53017",
+        "incentives": []
+    },
+    {
+        "firstName": "Georgina",
+        "lastName": "Henry",
+        "income": "6396137",
+        "homeValue": "270341",
+        "homeAge": "1947",
+        "propertyType": "single_family",
+        "addressZipcode": "36103",
+        "incentives": [
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Ayla",
+        "lastName": "Day",
+        "income": "10081060",
+        "homeValue": "763219",
+        "homeAge": "1947",
+        "propertyType": "multifamily",
+        "addressZipcode": "48075",
+        "incentives": []
+    },
+    {
+        "firstName": "Katerina",
+        "lastName": "Bradshaw",
+        "income": "13028675",
+        "homeValue": "469276",
+        "homeAge": "1935",
+        "propertyType": "single_family",
+        "addressZipcode": "48325",
+        "incentives": []
+    },
+    {
+        "firstName": "Ali",
+        "lastName": "Hebert",
+        "income": "7231902",
+        "homeValue": "593269",
+        "homeAge": "2004",
+        "propertyType": "multifamily",
+        "addressZipcode": "20115",
+        "incentives": [
             "solar_panels"
         ]
     },
     {
-        "Henri Carr": [
+        "firstName": "Emelia",
+        "lastName": "Randolph",
+        "income": "4323627",
+        "homeValue": "359356",
+        "homeAge": "1986",
+        "propertyType": "multifamily",
+        "addressZipcode": "12095",
+        "incentives": []
+    },
+    {
+        "firstName": "William",
+        "lastName": "Macdonald",
+        "income": "11106285",
+        "homeValue": "338558",
+        "homeAge": "2009",
+        "propertyType": "single_family",
+        "addressZipcode": "40109",
+        "incentives": [
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Eva",
+        "lastName": "Nichols",
+        "income": "14437898",
+        "homeValue": "239003",
+        "homeAge": "1933",
+        "propertyType": "single_family",
+        "addressZipcode": "50023",
+        "incentives": []
+    },
+    {
+        "firstName": "Tasnim",
+        "lastName": "Cooke",
+        "income": "5677530",
+        "homeValue": "405598",
+        "homeAge": "1981",
+        "propertyType": "single_family",
+        "addressZipcode": "22125",
+        "incentives": [
+            "solar_panels",
+            "weatherization",
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Macauley",
+        "lastName": "Leblanc",
+        "income": "10210760",
+        "homeValue": "524776",
+        "homeAge": "1965",
+        "propertyType": "single_family",
+        "addressZipcode": "26059",
+        "incentives": []
+    },
+    {
+        "firstName": "Leona",
+        "lastName": "Hodges",
+        "income": "5476799",
+        "homeValue": "335376",
+        "homeAge": "1961",
+        "propertyType": "multifamily",
+        "addressZipcode": "48201",
+        "incentives": []
+    },
+    {
+        "firstName": "Ricky",
+        "lastName": "Melendez",
+        "income": "10991685",
+        "homeValue": "278713",
+        "homeAge": "1971",
+        "propertyType": "multifamily",
+        "addressZipcode": "49047",
+        "incentives": []
+    },
+    {
+        "firstName": "Mehmet",
+        "lastName": "Watkins",
+        "income": "14424544",
+        "homeValue": "361161",
+        "homeAge": "1986",
+        "propertyType": "multifamily",
+        "addressZipcode": "13089",
+        "incentives": []
+    },
+    {
+        "firstName": "Frank",
+        "lastName": "Rios",
+        "income": "3746109",
+        "homeValue": "264015",
+        "homeAge": "2010",
+        "propertyType": "multifamily",
+        "addressZipcode": "17027",
+        "incentives": []
+    },
+    {
+        "firstName": "Haseeb",
+        "lastName": "Alvarez",
+        "income": "4302773",
+        "homeValue": "462231",
+        "homeAge": "1986",
+        "propertyType": "single_family",
+        "addressZipcode": "12057",
+        "incentives": []
+    },
+    {
+        "firstName": "Gabriela",
+        "lastName": "Boyd",
+        "income": "4852717",
+        "homeValue": "232939",
+        "homeAge": "2009",
+        "propertyType": "multifamily",
+        "addressZipcode": "12015",
+        "incentives": []
+    },
+    {
+        "firstName": "Nancy",
+        "lastName": "Hampton",
+        "income": "4371451",
+        "homeValue": "241354",
+        "homeAge": "1985",
+        "propertyType": "multifamily",
+        "addressZipcode": "36107",
+        "incentives": []
+    },
+    {
+        "firstName": "Betsy",
+        "lastName": "Neal",
+        "income": "9423811",
+        "homeValue": "233789",
+        "homeAge": "1971",
+        "propertyType": "single_family",
+        "addressZipcode": "19139",
+        "incentives": []
+    },
+    {
+        "firstName": "Lily-Mae",
+        "lastName": "Middleton",
+        "income": "10569164",
+        "homeValue": "625521",
+        "homeAge": "1932",
+        "propertyType": "multifamily",
+        "addressZipcode": "17015",
+        "incentives": []
+    },
+    {
+        "firstName": "Hasan",
+        "lastName": "Jackson",
+        "income": "8778013",
+        "homeValue": "451266",
+        "homeAge": "1982",
+        "propertyType": "single_family",
+        "addressZipcode": "36089",
+        "incentives": [
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Nieve",
+        "lastName": "Allison",
+        "income": "5421946",
+        "homeValue": "305299",
+        "homeAge": "1949",
+        "propertyType": "multifamily",
+        "addressZipcode": "36017",
+        "incentives": []
+    },
+    {
+        "firstName": "Sophie",
+        "lastName": "Ford",
+        "income": "14116760",
+        "homeValue": "519922",
+        "homeAge": "1981",
+        "propertyType": "single_family",
+        "addressZipcode": "17055",
+        "incentives": []
+    },
+    {
+        "firstName": "Zachary",
+        "lastName": "Gardner",
+        "income": "9678520",
+        "homeValue": "491335",
+        "homeAge": "2006",
+        "propertyType": "single_family",
+        "addressZipcode": "39061",
+        "incentives": [
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Larry",
+        "lastName": "Lester",
+        "income": "11681578",
+        "homeValue": "428712",
+        "homeAge": "1956",
+        "propertyType": "multifamily",
+        "addressZipcode": "20191",
+        "incentives": [
+            "solar_panels"
+        ]
+    },
+    {
+        "firstName": "India",
+        "lastName": "Weeks",
+        "income": "10705759",
+        "homeValue": "698304",
+        "homeAge": "1993",
+        "propertyType": "single_family",
+        "addressZipcode": "46129",
+        "incentives": []
+    },
+    {
+        "firstName": "Safiya",
+        "lastName": "Kidd",
+        "income": "14024271",
+        "homeValue": "652540",
+        "homeAge": "2000",
+        "propertyType": "multifamily",
+        "addressZipcode": "41045",
+        "incentives": []
+    },
+    {
+        "firstName": "Elizabeth",
+        "lastName": "Hardy",
+        "income": "13693142",
+        "homeValue": "223390",
+        "homeAge": "1948",
+        "propertyType": "multifamily",
+        "addressZipcode": "53037",
+        "incentives": []
+    },
+    {
+        "firstName": "Tiago",
+        "lastName": "Burke",
+        "income": "3069278",
+        "homeValue": "744077",
+        "homeAge": "1982",
+        "propertyType": "single_family",
+        "addressZipcode": "40003",
+        "incentives": [
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Gwen",
+        "lastName": "Figueroa",
+        "income": "14443786",
+        "homeValue": "556384",
+        "homeAge": "1963",
+        "propertyType": "multifamily",
+        "addressZipcode": "30093",
+        "incentives": []
+    },
+    {
+        "firstName": "Stephen",
+        "lastName": "Hawkins",
+        "income": "6413982",
+        "homeValue": "721435",
+        "homeAge": "1951",
+        "propertyType": "single_family",
+        "addressZipcode": "40115",
+        "incentives": [
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Janet",
+        "lastName": "Moran",
+        "income": "5611064",
+        "homeValue": "776925",
+        "homeAge": "1998",
+        "propertyType": "single_family",
+        "addressZipcode": "36043",
+        "incentives": [
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Arianna",
+        "lastName": "Dunn",
+        "income": "13580102",
+        "homeValue": "346472",
+        "homeAge": "1990",
+        "propertyType": "single_family",
+        "addressZipcode": "22009",
+        "incentives": [
+            "solar_panels",
+            "weatherization",
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Tegan",
+        "lastName": "Mcintyre",
+        "income": "6405448",
+        "homeValue": "230624",
+        "homeAge": "2004",
+        "propertyType": "multifamily",
+        "addressZipcode": "49039",
+        "incentives": []
+    },
+    {
+        "firstName": "Alison",
+        "lastName": "Love",
+        "income": "12185693",
+        "homeValue": "231287",
+        "homeAge": "1947",
+        "propertyType": "single_family",
+        "addressZipcode": "53061",
+        "incentives": []
+    },
+    {
+        "firstName": "Daniel",
+        "lastName": "Tate",
+        "income": "11726992",
+        "homeValue": "725579",
+        "homeAge": "1967",
+        "propertyType": "single_family",
+        "addressZipcode": "46057",
+        "incentives": []
+    },
+    {
+        "firstName": "Lennox",
+        "lastName": "Gallegos",
+        "income": "3739114",
+        "homeValue": "749360",
+        "homeAge": "1952",
+        "propertyType": "multifamily",
+        "addressZipcode": "50003",
+        "incentives": []
+    },
+    {
+        "firstName": "Esme",
+        "lastName": "Klein",
+        "income": "3369544",
+        "homeValue": "754260",
+        "homeAge": "1940",
+        "propertyType": "single_family",
+        "addressZipcode": "21111",
+        "incentives": [
+            "wall_insulation",
+            "hydronic_ashp",
+            "attic_insulation",
+            "floor_insulation"
+        ]
+    },
+    {
+        "firstName": "Euan",
+        "lastName": "Shaw",
+        "income": "13278878",
+        "homeValue": "360264",
+        "homeAge": "2003",
+        "propertyType": "single_family",
+        "addressZipcode": "12086",
+        "incentives": []
+    },
+    {
+        "firstName": "Uzair",
+        "lastName": "Blevins",
+        "income": "10813871",
+        "homeValue": "393761",
+        "homeAge": "1998",
+        "propertyType": "single_family",
+        "addressZipcode": "45013",
+        "incentives": []
+    },
+    {
+        "firstName": "Arron",
+        "lastName": "Tyler",
+        "income": "11034525",
+        "homeValue": "752777",
+        "homeAge": "1992",
+        "propertyType": "multifamily",
+        "addressZipcode": "51111",
+        "incentives": []
+    },
+    {
+        "firstName": "Xanthe",
+        "lastName": "Finley",
+        "income": "4802250",
+        "homeValue": "633770",
+        "homeAge": "1935",
+        "propertyType": "single_family",
+        "addressZipcode": "23009",
+        "incentives": [
+            "solar_panels",
+            "weatherization",
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Henri",
+        "lastName": "Carr",
+        "income": "12677395",
+        "homeValue": "698320",
+        "homeAge": "1995",
+        "propertyType": "single_family",
+        "addressZipcode": "55021",
+        "incentives": [
             "weatherization"
         ]
     },
     {
-        "Yasmin Goodwin": [
+        "firstName": "Yasmin",
+        "lastName": "Goodwin",
+        "income": "8717252",
+        "homeValue": "538384",
+        "homeAge": "1967",
+        "propertyType": "single_family",
+        "addressZipcode": "36065",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Judy Case": [
-            "energy_efficiency_improvements",
-            "solar_panels"
-        ]
+        "firstName": "Alyssa",
+        "lastName": "Little",
+        "income": "6798910",
+        "homeValue": "769654",
+        "homeAge": "1952",
+        "propertyType": "single_family",
+        "addressZipcode": "19013",
+        "incentives": []
     },
     {
-        "Roy Buck": [
+        "firstName": "Mae",
+        "lastName": "Wise",
+        "income": "4315292",
+        "homeValue": "569673",
+        "homeAge": "1971",
+        "propertyType": "multifamily",
+        "addressZipcode": "42021",
+        "incentives": []
+    },
+    {
+        "firstName": "Ida",
+        "lastName": "Luna",
+        "income": "4876124",
+        "homeValue": "250132",
+        "homeAge": "1972",
+        "propertyType": "single_family",
+        "addressZipcode": "17113",
+        "incentives": []
+    },
+    {
+        "firstName": "Khalid",
+        "lastName": "Vaughn",
+        "income": "7347056",
+        "homeValue": "708647",
+        "homeAge": "2004",
+        "propertyType": "multifamily",
+        "addressZipcode": "42003",
+        "incentives": []
+    },
+    {
+        "firstName": "Tori",
+        "lastName": "Orozco",
+        "income": "11298646",
+        "homeValue": "492778",
+        "homeAge": "2000",
+        "propertyType": "single_family",
+        "addressZipcode": "17077",
+        "incentives": []
+    },
+    {
+        "firstName": "Kaine",
+        "lastName": "Friedman",
+        "income": "10179179",
+        "homeValue": "323149",
+        "homeAge": "1993",
+        "propertyType": "single_family",
+        "addressZipcode": "29053",
+        "incentives": []
+    },
+    {
+        "firstName": "Nora",
+        "lastName": "Bonilla",
+        "income": "14892713",
+        "homeValue": "566094",
+        "homeAge": "2008",
+        "propertyType": "multifamily",
+        "addressZipcode": "48453",
+        "incentives": []
+    },
+    {
+        "firstName": "Judy",
+        "lastName": "Case",
+        "income": "14032355",
+        "homeValue": "458011",
+        "homeAge": "1962",
+        "propertyType": "single_family",
+        "addressZipcode": "24031",
+        "incentives": [
+            "solar_panels",
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Olly Lambert": [
+        "firstName": "Anisha",
+        "lastName": "York",
+        "income": "7534522",
+        "homeValue": "590855",
+        "homeAge": "1953",
+        "propertyType": "multifamily",
+        "addressZipcode": "10003",
+        "incentives": []
+    },
+    {
+        "firstName": "Libby",
+        "lastName": "Rogers",
+        "income": "14271492",
+        "homeValue": "234002",
+        "homeAge": "1945",
+        "propertyType": "multifamily",
+        "addressZipcode": "48265",
+        "incentives": []
+    },
+    {
+        "firstName": "Veronica",
+        "lastName": "Hutchinson",
+        "income": "12333882",
+        "homeValue": "677825",
+        "homeAge": "1943",
+        "propertyType": "multifamily",
+        "addressZipcode": "36103",
+        "incentives": []
+    },
+    {
+        "firstName": "Roy",
+        "lastName": "Buck",
+        "income": "12152011",
+        "homeValue": "254187",
+        "homeAge": "1948",
+        "propertyType": "single_family",
+        "addressZipcode": "28089",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Julie Campos": [
+        "firstName": "Fahad",
+        "lastName": "Mcmahon",
+        "income": "10697647",
+        "homeValue": "363559",
+        "homeAge": "1994",
+        "propertyType": "multifamily",
+        "addressZipcode": "36081",
+        "incentives": []
+    },
+    {
+        "firstName": "Olly",
+        "lastName": "Lambert",
+        "income": "13530035",
+        "homeValue": "200570",
+        "homeAge": "1991",
+        "propertyType": "single_family",
+        "addressZipcode": "42033",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Margie Stevens": [
-            "energy_efficiency_improvements",
-            "solar_panels"
-        ]
-    },
-    {
-        "Kareem Chapman": [
+        "firstName": "Julie",
+        "lastName": "Campos",
+        "income": "13348040",
+        "homeValue": "571596",
+        "homeAge": "2003",
+        "propertyType": "single_family",
+        "addressZipcode": "42027",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Salman Sosa": [
+        "firstName": "Kiran",
+        "lastName": "Best",
+        "income": "9261094",
+        "homeValue": "701267",
+        "homeAge": "1939",
+        "propertyType": "single_family",
+        "addressZipcode": "18055",
+        "incentives": []
+    },
+    {
+        "firstName": "Wanda",
+        "lastName": "Leon",
+        "income": "14928796",
+        "homeValue": "743980",
+        "homeAge": "1984",
+        "propertyType": "multifamily",
+        "addressZipcode": "36119",
+        "incentives": []
+    },
+    {
+        "firstName": "Carly",
+        "lastName": "Jimenez",
+        "income": "4680729",
+        "homeValue": "572696",
+        "homeAge": "1985",
+        "propertyType": "multifamily",
+        "addressZipcode": "17099",
+        "incentives": []
+    },
+    {
+        "firstName": "Kenny",
+        "lastName": "May",
+        "income": "7472907",
+        "homeValue": "667026",
+        "homeAge": "1946",
+        "propertyType": "single_family",
+        "addressZipcode": "12083",
+        "incentives": []
+    },
+    {
+        "firstName": "Margie",
+        "lastName": "Stevens",
+        "income": "7456175",
+        "homeValue": "743949",
+        "homeAge": "1955",
+        "propertyType": "single_family",
+        "addressZipcode": "24033",
+        "incentives": [
+            "solar_panels",
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Kasey Whitney": [
-            "attic_insulation",
-            "floor_insulation",
+        "firstName": "Kareem",
+        "lastName": "Chapman",
+        "income": "7189876",
+        "homeValue": "309110",
+        "homeAge": "1980",
+        "propertyType": "single_family",
+        "addressZipcode": "36013",
+        "incentives": [
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Ruben",
+        "lastName": "Meyers",
+        "income": "8941503",
+        "homeValue": "553365",
+        "homeAge": "1973",
+        "propertyType": "multifamily",
+        "addressZipcode": "36015",
+        "incentives": []
+    },
+    {
+        "firstName": "Caspar",
+        "lastName": "Serrano",
+        "income": "14829919",
+        "homeValue": "243869",
+        "homeAge": "1988",
+        "propertyType": "multifamily",
+        "addressZipcode": "29111",
+        "incentives": []
+    },
+    {
+        "firstName": "Kadie",
+        "lastName": "Knapp",
+        "income": "10354511",
+        "homeValue": "347234",
+        "homeAge": "1933",
+        "propertyType": "single_family",
+        "addressZipcode": "29510",
+        "incentives": []
+    },
+    {
+        "firstName": "Ayub",
+        "lastName": "Connor",
+        "income": "7034142",
+        "homeValue": "518468",
+        "homeAge": "1936",
+        "propertyType": "multifamily",
+        "addressZipcode": "19057",
+        "incentives": []
+    },
+    {
+        "firstName": "Jemma",
+        "lastName": "Hale",
+        "income": "6419354",
+        "homeValue": "667217",
+        "homeAge": "2006",
+        "propertyType": "single_family",
+        "addressZipcode": "48167",
+        "incentives": []
+    },
+    {
+        "firstName": "Salman",
+        "lastName": "Sosa",
+        "income": "7975900",
+        "homeValue": "339267",
+        "homeAge": "1982",
+        "propertyType": "single_family",
+        "addressZipcode": "42071",
+        "incentives": [
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Calum",
+        "lastName": "Dominguez",
+        "income": "9191402",
+        "homeValue": "235059",
+        "homeAge": "1993",
+        "propertyType": "multifamily",
+        "addressZipcode": "25015",
+        "incentives": []
+    },
+    {
+        "firstName": "Mckenzie",
+        "lastName": "Curtis",
+        "income": "7806718",
+        "homeValue": "778508",
+        "homeAge": "1980",
+        "propertyType": "multifamily",
+        "addressZipcode": "36109",
+        "incentives": []
+    },
+    {
+        "firstName": "Kasey",
+        "lastName": "Whitney",
+        "income": "5523502",
+        "homeValue": "287130",
+        "homeAge": "1973",
+        "propertyType": "single_family",
+        "addressZipcode": "21111",
+        "incentives": [
+            "wall_insulation",
             "hydronic_ashp",
-            "wall_insulation"
-        ]
-    },
-    {
-        "Hajra Waller": [
-            "energy_efficiency_improvements"
-        ]
-    },
-    {
-        "Bobby Chavez": [
-            "energy_efficiency_improvements"
-        ]
-    },
-    {
-        "Aryan Peck": [
-            "energy_efficiency_improvements",
-            "energy_efficiency_improvements",
-            "weatherization",
-            "solar_panels"
-        ]
-    },
-    {
-        "Thomas Farley": [
             "attic_insulation",
-            "floor_insulation",
-            "hydronic_ashp",
-            "wall_insulation"
+            "floor_insulation"
         ]
     },
     {
-        "Omari Mcdonald": [
+        "firstName": "Kayleigh",
+        "lastName": "Blaese",
+        "income": "8172217",
+        "homeValue": "466623",
+        "homeAge": "1972",
+        "propertyType": "multifamily",
+        "addressZipcode": "10001",
+        "incentives": []
+    },
+    {
+        "firstName": "Hajra",
+        "lastName": "Waller",
+        "income": "4216313",
+        "homeValue": "650764",
+        "homeAge": "2008",
+        "propertyType": "single_family",
+        "addressZipcode": "41005",
+        "incentives": [
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Keziah",
+        "lastName": "Watson",
+        "income": "11391106",
+        "homeValue": "631453",
+        "homeAge": "1999",
+        "propertyType": "multifamily",
+        "addressZipcode": "27013",
+        "incentives": []
+    },
+    {
+        "firstName": "Stephen",
+        "lastName": "Rhodes",
+        "income": "14940007",
+        "homeValue": "322705",
+        "homeAge": "1995",
+        "propertyType": "single_family",
+        "addressZipcode": "54103",
+        "incentives": []
+    },
+    {
+        "firstName": "Inaaya",
+        "lastName": "Higgins",
+        "income": "9143014",
+        "homeValue": "214776",
+        "homeAge": "1961",
+        "propertyType": "single_family",
+        "addressZipcode": "16021",
+        "incentives": []
+    },
+    {
+        "firstName": "Elisa",
+        "lastName": "Chang",
+        "income": "13811554",
+        "homeValue": "774561",
+        "homeAge": "1959",
+        "propertyType": "multifamily",
+        "addressZipcode": "36061",
+        "incentives": []
+    },
+    {
+        "firstName": "Dillan",
+        "lastName": "Rangel",
+        "income": "13928597",
+        "homeValue": "667958",
+        "homeAge": "2007",
+        "propertyType": "multifamily",
+        "addressZipcode": "36103",
+        "incentives": []
+    },
+    {
+        "firstName": "Karina",
+        "lastName": "Trujillo",
+        "income": "3355282",
+        "homeValue": "620591",
+        "homeAge": "1996",
+        "propertyType": "single_family",
+        "addressZipcode": "18049",
+        "incentives": []
+    },
+    {
+        "firstName": "Luther",
+        "lastName": "Briggs",
+        "income": "9031667",
+        "homeValue": "351443",
+        "homeAge": "2004",
+        "propertyType": "multifamily",
+        "addressZipcode": "36111",
+        "incentives": []
+    },
+    {
+        "firstName": "Bobby",
+        "lastName": "Chavez",
+        "income": "14183483",
+        "homeValue": "438747",
+        "homeAge": "1954",
+        "propertyType": "single_family",
+        "addressZipcode": "31025",
+        "incentives": [
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Frederic",
+        "lastName": "Wall",
+        "income": "4980512",
+        "homeValue": "334058",
+        "homeAge": "1983",
+        "propertyType": "single_family",
+        "addressZipcode": "13083",
+        "incentives": []
+    },
+    {
+        "firstName": "Aryan",
+        "lastName": "Peck",
+        "income": "10100812",
+        "homeValue": "475064",
+        "homeAge": "1985",
+        "propertyType": "single_family",
+        "addressZipcode": "23025",
+        "incentives": [
+            "solar_panels",
+            "weatherization",
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Juan",
+        "lastName": "Hilton",
+        "income": "5401895",
+        "homeValue": "619054",
+        "homeAge": "2001",
+        "propertyType": "multifamily",
+        "addressZipcode": "48237",
+        "incentives": []
+    },
+    {
+        "firstName": "Bella",
+        "lastName": "Carr",
+        "income": "9001660",
+        "homeValue": "744580",
+        "homeAge": "1971",
+        "propertyType": "multifamily",
+        "addressZipcode": "37183",
+        "incentives": []
+    },
+    {
+        "firstName": "Thomas",
+        "lastName": "Farley",
+        "income": "7641523",
+        "homeValue": "676035",
+        "homeAge": "1976",
+        "propertyType": "single_family",
+        "addressZipcode": "21117",
+        "incentives": [
+            "wall_insulation",
+            "hydronic_ashp",
             "attic_insulation",
-            "floor_insulation",
+            "floor_insulation"
+        ]
+    },
+    {
+        "firstName": "Aneesa",
+        "lastName": "Wood",
+        "income": "3907627",
+        "homeValue": "496835",
+        "homeAge": "1937",
+        "propertyType": "multifamily",
+        "addressZipcode": "38025",
+        "incentives": []
+    },
+    {
+        "firstName": "Omari",
+        "lastName": "Mcdonald",
+        "income": "10862373",
+        "homeValue": "296458",
+        "homeAge": "1936",
+        "propertyType": "single_family",
+        "addressZipcode": "21111",
+        "incentives": [
+            "wall_insulation",
             "hydronic_ashp",
-            "wall_insulation"
+            "attic_insulation",
+            "floor_insulation"
         ]
     },
     {
-        "Keith Haas": [
+        "firstName": "Arman",
+        "lastName": "Decker",
+        "income": "5026805",
+        "homeValue": "763070",
+        "homeAge": "1972",
+        "propertyType": "multifamily",
+        "addressZipcode": "17037",
+        "incentives": []
+    },
+    {
+        "firstName": "Annabelle",
+        "lastName": "Fulton",
+        "income": "10526644",
+        "homeValue": "535922",
+        "homeAge": "1931",
+        "propertyType": "single_family",
+        "addressZipcode": "26047",
+        "incentives": []
+    },
+    {
+        "firstName": "Kathleen",
+        "lastName": "Sherman",
+        "income": "4333421",
+        "homeValue": "330781",
+        "homeAge": "1974",
+        "propertyType": "multifamily",
+        "addressZipcode": "48109",
+        "incentives": []
+    },
+    {
+        "firstName": "Danyal",
+        "lastName": "Garrison",
+        "income": "12182687",
+        "homeValue": "792617",
+        "homeAge": "1941",
+        "propertyType": "multifamily",
+        "addressZipcode": "30081",
+        "incentives": []
+    },
+    {
+        "firstName": "Haris",
+        "lastName": "Montes",
+        "income": "7142741",
+        "homeValue": "719676",
+        "homeAge": "1945",
+        "propertyType": "single_family",
+        "addressZipcode": "12047",
+        "incentives": []
+    },
+    {
+        "firstName": "Keith",
+        "lastName": "Haas",
+        "income": "9986671",
+        "homeValue": "608194",
+        "homeAge": "1989",
+        "propertyType": "single_family",
+        "addressZipcode": "30067",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Keaton Vang": [
+        "firstName": "Keaton",
+        "lastName": "Vang",
+        "income": "7394627",
+        "homeValue": "723030",
+        "homeAge": "1967",
+        "propertyType": "single_family",
+        "addressZipcode": "42087",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Philippa Ellis": [
+        "firstName": "Philippa",
+        "lastName": "Ellis",
+        "income": "9994559",
+        "homeValue": "773981",
+        "homeAge": "1941",
+        "propertyType": "single_family",
+        "addressZipcode": "27013",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Pedro Pollard": [
-            "energy_efficiency_improvements",
-            "energy_efficiency_improvements",
+        "firstName": "Conrad",
+        "lastName": "Ryan",
+        "income": "4492804",
+        "homeValue": "434315",
+        "homeAge": "1994",
+        "propertyType": "single_family",
+        "addressZipcode": "47017",
+        "incentives": []
+    },
+    {
+        "firstName": "Dylan",
+        "lastName": "Ford",
+        "income": "12457717",
+        "homeValue": "678684",
+        "homeAge": "1930",
+        "propertyType": "multifamily",
+        "addressZipcode": "25015",
+        "incentives": []
+    },
+    {
+        "firstName": "Adam",
+        "lastName": "Wang",
+        "income": "5989606",
+        "homeValue": "259070",
+        "homeAge": "1989",
+        "propertyType": "single_family",
+        "addressZipcode": "33009",
+        "incentives": []
+    },
+    {
+        "firstName": "Elinor",
+        "lastName": "Walls",
+        "income": "14890571",
+        "homeValue": "732648",
+        "homeAge": "1981",
+        "propertyType": "multifamily",
+        "addressZipcode": "26059",
+        "incentives": []
+    },
+    {
+        "firstName": "Alesha",
+        "lastName": "Salazar",
+        "income": "4011536",
+        "homeValue": "233702",
+        "homeAge": "1959",
+        "propertyType": "single_family",
+        "addressZipcode": "13215",
+        "incentives": []
+    },
+    {
+        "firstName": "Nina",
+        "lastName": "Price",
+        "income": "5334333",
+        "homeValue": "304155",
+        "homeAge": "1977",
+        "propertyType": "multifamily",
+        "addressZipcode": "36065",
+        "incentives": []
+    },
+    {
+        "firstName": "Ida",
+        "lastName": "Henderson",
+        "income": "10123537",
+        "homeValue": "445208",
+        "homeAge": "1956",
+        "propertyType": "multifamily",
+        "addressZipcode": "30081",
+        "incentives": []
+    },
+    {
+        "firstName": "Pedro",
+        "lastName": "Pollard",
+        "income": "9561197",
+        "homeValue": "484957",
+        "homeAge": "1994",
+        "propertyType": "single_family",
+        "addressZipcode": "20109",
+        "incentives": [
+            "solar_panels",
             "weatherization",
-            "solar_panels"
-        ]
-    },
-    {
-        "Hafsah Avila": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Blake Wilkinson": [
+        "firstName": "Ann",
+        "lastName": "Deleon",
+        "income": "4802530",
+        "homeValue": "239713",
+        "homeAge": "1975",
+        "propertyType": "multifamily",
+        "addressZipcode": "19153",
+        "incentives": []
+    },
+    {
+        "firstName": "Huw",
+        "lastName": "Lowery",
+        "income": "4303936",
+        "homeValue": "422826",
+        "homeAge": "1987",
+        "propertyType": "single_family",
+        "addressZipcode": "18035",
+        "incentives": []
+    },
+    {
+        "firstName": "Saarah",
+        "lastName": "Velazquez",
+        "income": "8028197",
+        "homeValue": "651549",
+        "homeAge": "1974",
+        "propertyType": "multifamily",
+        "addressZipcode": "48303",
+        "incentives": []
+    },
+    {
+        "firstName": "Brodie",
+        "lastName": "Winters",
+        "income": "6834347",
+        "homeValue": "245945",
+        "homeAge": "1999",
+        "propertyType": "single_family",
+        "addressZipcode": "54023",
+        "incentives": []
+    },
+    {
+        "firstName": "Hafsah",
+        "lastName": "Avila",
+        "income": "6776372",
+        "homeValue": "446314",
+        "homeAge": "1968",
+        "propertyType": "single_family",
+        "addressZipcode": "28091",
+        "incentives": [
             "energy_efficiency_improvements"
         ]
     },
     {
-        "Evan Larsen": [
-            "energy_efficiency_improvements",
-            "energy_efficiency_improvements",
+        "firstName": "Harriett",
+        "lastName": "Hodges",
+        "income": "14750354",
+        "homeValue": "366716",
+        "homeAge": "1931",
+        "propertyType": "multifamily",
+        "addressZipcode": "36111",
+        "incentives": []
+    },
+    {
+        "firstName": "Shelby",
+        "lastName": "Fox",
+        "income": "10604510",
+        "homeValue": "760930",
+        "homeAge": "1945",
+        "propertyType": "single_family",
+        "addressZipcode": "13205",
+        "incentives": []
+    },
+    {
+        "firstName": "Alfred",
+        "lastName": "Alvarez",
+        "income": "7355758",
+        "homeValue": "332678",
+        "homeAge": "1995",
+        "propertyType": "multifamily",
+        "addressZipcode": "37161",
+        "incentives": []
+    },
+    {
+        "firstName": "Blake",
+        "lastName": "Wilkinson",
+        "income": "9183453",
+        "homeValue": "600448",
+        "homeAge": "1939",
+        "propertyType": "single_family",
+        "addressZipcode": "42051",
+        "incentives": [
+            "energy_efficiency_improvements"
+        ]
+    },
+    {
+        "firstName": "Evan",
+        "lastName": "Larsen",
+        "income": "7708637",
+        "homeValue": "448804",
+        "homeAge": "1985",
+        "propertyType": "single_family",
+        "addressZipcode": "20151",
+        "incentives": [
+            "solar_panels",
             "weatherization",
-            "solar_panels"
+            "energy_efficiency_improvements"
         ]
     }
 ]

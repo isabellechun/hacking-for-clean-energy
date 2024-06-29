@@ -21,4 +21,5 @@ from eli import views
 urlpatterns = [
     path("ping", views.ping, name="ping"),
     path("eli", views.eli_post, name="eli_post"),
+    path("testeli", views.test_eli_post, name="test_eli_post"),
 ]
