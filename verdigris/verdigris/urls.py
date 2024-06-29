@@ -16,7 +16,9 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from eli import views
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
+    path("ping", views.ping, name="ping"),
+    path("eli", views.eli_post, name="eli_post"),
 ]
