@@ -1,0 +1,16 @@
+[
+    {
+        "firstName": "Tanisha",
+        "lastName": "Guzman",
+        "income": "9916521",
+        "homeValue": "749197",
+        "homeAge": "1945",
+        "propertyType": "single_family",
+        "addressZipcode": "23005",
+        "incentives": [
+            "solar_panels",
+            "weatherization",
+            "energy_efficiency_improvements"
+        ]
+    }
+]

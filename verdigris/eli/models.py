@@ -33,6 +33,17 @@ class HouseholdInfo:
             propertyType=row[6],
             addressZipCode=row[7],
         )
+    
+    def toDictionary(self):
+        return {
+            "firstName": self.firstName,
+            "lastName": self.lastName,
+            "income": self.income,
+            "homeValue": self.homeValue[0],
+            "homeAge": self.homeAge[0],
+            "propertyType": self.propertyType,
+            "addressZipcode": self.addressZipCode
+        }
 
 class ApiResult:
     def __init__(self, firstName, lastName, incentives):
