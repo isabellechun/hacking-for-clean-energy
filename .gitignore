@@ -1,8 +1,5 @@
 /verdigris/bin
 /verdigris/lib
 verdigris/eli/__pycache__/
-<<<<<<< Updated upstream
 /verdigris/verdigris/__pycache__
-=======
 *.pyc
->>>>>>> Stashed changes
