@@ -10,9 +10,10 @@ def eli_post(request):
         # Param for input csv
         # read the input csv. For each row, call Eli API
         # helpMe()
-        App.read_csv("./data/input.csv")
+        result = App.read_csv("./data/input.csv")
 
         # update output file
+        App.writeJson(result, "./data/target_customers.json")
         
-        # Return a 204 No Content response
+        # Return a 200 response
         return HttpResponse(status=200, content="Success")
