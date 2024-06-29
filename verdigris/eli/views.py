@@ -5,7 +5,10 @@ def ping(request):
 
 def eli_post(request):
     if request.method == 'POST':
-        # Handle any necessary processing for POST requests here
+        # Param for input csv
+        # read the input csv
+        # For each row, call Eli API
+        # update output file
         
         # Return a 204 No Content response
         return HttpResponse(status=204)
