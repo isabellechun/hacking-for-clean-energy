@@ -1,3 +1,5 @@
 /verdigris/bin
 /verdigris/lib
 verdigris/eli/__pycache__/
+/verdigris/verdigris/__pycache__
+*.pyc
